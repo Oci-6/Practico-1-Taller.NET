@@ -1,0 +1,10 @@
+C:\Users\Administrador\source\repos\Practico1\Practico1\bin\Debug\Practico1.exe.config
+C:\Users\Administrador\source\repos\Practico1\Practico1\bin\Debug\Practico1.exe
+C:\Users\Administrador\source\repos\Practico1\Practico1\bin\Debug\Practico1.pdb
+C:\Users\Administrador\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Practico1\Practico1\obj\Debug\Practico1.exe
+C:\Users\Administrador\source\repos\Practico1\Practico1\obj\Debug\Practico1.pdb
+C:\Users\Administrador\source\repos\Practico1\Practico1\bin\Debug\ClassLibraryPractico1.dll
+C:\Users\Administrador\source\repos\Practico1\Practico1\bin\Debug\ClassLibraryPractico1.pdb
+C:\Users\Administrador\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.CopyComplete

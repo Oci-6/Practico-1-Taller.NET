@@ -1,0 +1,6 @@
+C:\Users\Administrador\source\repos\Practico1\ClassLibraryPractico1\bin\Debug\ClassLibraryPractico1.dll
+C:\Users\Administrador\source\repos\Practico1\ClassLibraryPractico1\bin\Debug\ClassLibraryPractico1.pdb
+C:\Users\Administrador\source\repos\Practico1\ClassLibraryPractico1\obj\Debug\ClassLibraryPractico1.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Practico1\ClassLibraryPractico1\obj\Debug\ClassLibraryPractico1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Practico1\ClassLibraryPractico1\obj\Debug\ClassLibraryPractico1.dll
+C:\Users\Administrador\source\repos\Practico1\ClassLibraryPractico1\obj\Debug\ClassLibraryPractico1.pdb
