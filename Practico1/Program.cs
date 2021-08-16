@@ -27,6 +27,8 @@ namespace Practico1
                         ListarPersonas(personas, "", "");
                         break;
                     case "3":
+                        Console.Clear();
+
                         Console.WriteLine("Filtrar por:");
                         Console.WriteLine("1- Nombre");
                         Console.WriteLine("2- CI");
@@ -55,6 +57,8 @@ namespace Practico1
 
         private static void ListarPersonas(List<Persona> personas, string filtroNom, string filtroCI)
         {
+            Console.Clear();
+
             if (filtroNom != "")
             {
                 personas = personas.Where(x => x.nombre.StartsWith(filtroNom)).ToList();
@@ -68,15 +72,23 @@ namespace Practico1
                     ", Edad: " + x.getEdad()).ToList();
 
             // Imprimimos
-            lista.ForEach(x =>
+            if (lista.Count() > 0)
             {
-                Console.WriteLine(x);
-            });
+                lista.ForEach(x =>
+                {
+                    Console.WriteLine(x);
+                });
+            }
+            else
+            {
+                Console.WriteLine("No hay personas");
+            }
             Console.ReadLine();
         }
 
         private static List<Persona> AgregarPersonas()
         {
+            Console.Clear();
             string nombre = "";
             string fechaNac = "";
             string documento = "";
